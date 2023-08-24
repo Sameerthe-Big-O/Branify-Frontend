@@ -1,0 +1,12 @@
+.Tile {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #314755; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #26a0da,
+    #314755
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #26a0da, #314755);
+}
